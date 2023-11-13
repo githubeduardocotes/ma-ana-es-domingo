@@ -1,0 +1,36 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes not staged for commit:
+#	deleted:    actividad7/arch kotli.txt
+#	deleted:    actividad7/arch2 kotlin.txt
+#	deleted:    miweb/miweb.html
+#
+# Untracked files:
+#	.gitconfig
+#	.lesshst
+#	.vscode/
+#	AppData/
+#	Contacts/
+#	Downloads/
+#	Favorites/
+#	IntelGraphicsProfiles/
+#	Links/
+#	NTUSER.DAT
+#	NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf
+#	NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms
+#	NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms
+#	OneDrive/
+#	Saved Games/
+#	Searches/
+#	Videos/
+#	git
+#	ntuser.dat.LOG1
+#	ntuser.dat.LOG2
+#	ntuser.ini
+#
